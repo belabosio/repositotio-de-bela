@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <TITLE> Enzito por favor faça teatro</TITLE>
+        <link rel="stylesheet"
+        type="text/css"
+        href="style.css">
+    </head>
+    <body>
+        <h1 id="divo"> enzito por favor faça teatro </h1>
+        <br> 
+        <div class="botoes">
+        <a href="http://127.0.0.1:5500/imagem.html/index/index.html">
+    |<button>amei otima ideia, claro</button></a> <a href="http://127.0.0.1:5500/imagem.html/index.html"><button>claro diva!!</button> </a> <br>    </div>
+        <div class="musa"></div><br> <a href="https://pt.wikipedia.org/wiki/Ygona_Moura" id="musa"> Clique pra ver uma musa inspiradora</a> 
+    <br>
+    <img src="https://th.bing.com/th?id=OIP.ijTWBgRKSodKJZMk2thsDwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"> <!-- ajeitar imagem com href--> https://i.ytimg.com/vi/yhEHhX5qt-8/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4DgALgA4oCDAgAEAEYZSBZKE0wDw==&rs=AOn4CLDytuU6tzyfT1QoYcceNvVOyoYUGw
+        </div>
+    </body>
+</html>
